@@ -16,6 +16,8 @@ Vue.config.productionTip = false
 //     mutations: {}
 // });
 
+// xintianjai
+
 /* eslint-disable no-new */
 new Vue({
   el: '#app',
